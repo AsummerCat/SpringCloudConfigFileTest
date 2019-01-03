@@ -4,3 +4,6 @@ server:
   port: 8091
   
 test: myCat
+person:
+  no1: 小明
+  no2: 小东
