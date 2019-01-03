@@ -5,5 +5,5 @@ server:
   
 test: myCat
 person:
-  no1: 小强
-  no2: 小哼
+  no1: 小B
+  no2: 小A
