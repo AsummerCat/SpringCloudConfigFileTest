@@ -3,7 +3,7 @@ info:
 server:
   port: 8091
   
-test: myCat1
+test: myCat
 person:
-  no1: 小B1
-  no2: 小A1
+  no1: 小B
+  no2: 小A
