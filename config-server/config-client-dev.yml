@@ -1,9 +1,0 @@
-info:
-  profile: dev
-server:
-  port: 8091
-  
-test: myCat
-person:
-  no1: 小B
-  no2: 小A
